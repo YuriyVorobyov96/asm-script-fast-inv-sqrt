@@ -1,0 +1,9 @@
+{
+  "name": "fast-inverse-square-root",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "devDependencies": {
+    "assemblyscript": "0.27.0"
+  }
+}
